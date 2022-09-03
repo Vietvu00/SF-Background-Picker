@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+section{
+    margin: 0 38.5%;
+}
+li{
+    list-style-type: none;
+    display: inline;
+}
+body{
+    background: no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#ryu{
+    background: url(img/ryu.gif);
+
+}
+#honda{
+    background: url(img/ryu.gif);
+}
+#blanka{
+    background: url(img/blanka.gif);
+}
+#guile{
+    background: url(img/guile.gif);
+}
+#ken{
+    background: url(img/ken.gif);
+}
+#chunli{
+    background: url(img/chunli.gif);
+}
+#zangief{
+    background: url(img/zangief.gif);
+}
+#dhalsim{
+    background: url(img/dhalsim.gif);
+}
